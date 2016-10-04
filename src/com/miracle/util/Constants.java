@@ -14,7 +14,7 @@ public class Constants {
 	public static final String CUSTOMER_NAME = "CustomerName";
 	public static final String CUSTOMER_ID = "customer_id";
 	public static final String ACCOUNT_ID = "account_id";
-	public static final String VENDOR_ID = "vendor_id";	
+	public static final String VENDOR_ID = "vendorId";	
 	public static final String VENDOR_NAME = "VendorName";
 	
 	public static final String RELATED_ORG_ID = "related_org_Id";	
